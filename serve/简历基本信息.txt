@@ -1,0 +1,7 @@
+1.精通 Vue、Vue3、React
+2.uniapp、微信小程序、微信公众号、H5、web 都有项目经验
+3.熟练使用 typescript
+4.熟悉 性能优化
+5.熟练使用 jenkins、CI/CD 工程化
+6.熟悉 webpack、node.js、mysql、sql语句
+
